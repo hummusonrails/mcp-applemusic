@@ -1,3 +1,9 @@
+# ARCHIVED
+
+This project has been moved to the [jeeves monorepo](https://github.com/hummusonrails/jeeves). This repo is archived and will be deleted on 2026-05-18.
+
+---
+
 # mcp-applemusic
 
 [MCP](https://modelcontextprotocol.io/) server for Apple Music - lets Claude manage playlists, control playback, and browse your library.
